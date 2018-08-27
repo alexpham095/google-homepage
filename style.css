@@ -1,0 +1,22 @@
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);   
+  text-align: center;    
+}
+
+.scale {
+  width: 272px;
+  height: 92px;
+}
+
+.set {
+  padding: 20px;
+}
+
+#textboxid {
+  border-radius: 1px;
+  box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.3);
+  width: 500px;
+}
